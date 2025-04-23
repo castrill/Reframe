@@ -1,5 +1,4 @@
-import './Produto.css'
-
+import './Produto.css' 
 
 
 function Produto(props) {
@@ -19,6 +18,7 @@ function Produto(props) {
         {produtos.map((p) => (
             <Produto modelo={p.modelo} preco={p.preco}/> 
         ))}
+
 
 
 

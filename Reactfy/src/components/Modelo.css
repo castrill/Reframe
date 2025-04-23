@@ -1,0 +1,16 @@
+.form-produto{
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+
+
+    color: aliceblue;
+    border: 1px solid aliceblue;
+    padding: 10px;
+    
+
+
+
+}

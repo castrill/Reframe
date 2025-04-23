@@ -11,3 +11,9 @@
     width: 200px;
     height: 300px;
 }
+
+.cards{
+    display: flex;
+    align-items: normal;
+    flex-wrap: wrap;
+}
